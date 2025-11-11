@@ -68,8 +68,9 @@
 ### 🧠 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalpveer&theme=tokyo-night&hide_border=true&area=true" alt="Kalp Veer's GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalpveer&theme=synthwave-84&hide_border=true&area=true" alt="Kalp Veer's GitHub activity graph" />
 </div>
+
 
 
 ---
