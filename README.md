@@ -1,80 +1,85 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-<h3 align="center">I'm Kalp Veer — a developer from India building AI-driven products and web experiences.</h3>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,express,postgres,python,aws,git,figma,vercel" height="55" alt="skills logos" />
-</div>
 
-###
+# kalp veer
 
-<div align="center">
-  <a href="https://linkedin.com/in/kalp-veer-953092201" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://twitter.com/kalp3011" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
-  <a href="https://instagram.com/kalp.veer" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
-  </a>
-  <a href="https://medium.com/@kalpveer2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&style=for-the-badge" height="25" alt="medium logo" />
-  </a>
+**building things that probably didn't need to exist — until they did.**
+
+AI · products · web · experiments
+
+<br/>
+
+<a href="https://productica.vercel.app">productica</a>
+  ·   <a href="https://kalpveer.vercel.app">portfolio</a>
+  ·   <a href="https://linkedin.com/in/kalp-veer-953092201">linkedin</a>
+  ·   <a href="https://twitter.com/kalp3011">x</a>
+  ·   <a href="mailto:kalpveer2@gmail.com">email</a>
+
 </div>
 
 ---
 
-### 🚀 About Me
+### currently
 
-- 🔭 I’m currently working on:
-  - [**Productica**](https://productica.vercel.app) — AI for product–market fit and startup intelligence.  
-  - [**Aurax**](https://github.com/kalpveer/Aurax) — futuristic AI voice and assistant platform.  
-  - [**Typo**](https://github.com/kalpveer/Typo) — minimal text-to-design workspace for creators.
+building **Productica** — AI for figuring out whether an idea actually has a market.
 
-- 🌱 I’m currently learning **Node.js, SQL, and advanced system design**.
+also making:
 
-- 💬 Ask me about **React, Pandas, and WebRTC**.
-
-- 📫 Reach me at **kalpveer2@gmail.com**
-
-- ⚡ Fun fact — *I’m introvert AF but ship loud products.*
+* **Aurax** — space, AI & things that make you look at the sky
+* **Typo** — turning words into visuals
+* whatever interesting idea shows up next
 
 ---
 
-### 🛠️ Languages & Tools
+### stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,bootstrap,python,java,git,linux,mysql,figma,vercel" height="50" />
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,express,python,postgres,git,linux,figma,vercel" height="48" />
+
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### things i like breaking
+
+`AI products`   `interfaces`   `APIs`   `systems`   `random ideas`
+
+### things i'm learning
+
+`backend architecture` · `SQL` · `system design` · `distributed systems`
+
+---
+
+### github, apparently
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kalpveer&theme=tokyo-night&hide_border=false&border_radius=5" />
 
-  <img src="https://github-profile-trophy.vercel.app/?username=kalpveer&theme=tokyonight&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=kalpveer&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff" height="165" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalpveer&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpveer&layout=compact&theme=tokyonight" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpveer&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=ffffff&text_color=888888" height="165" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=kalpveer&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=888888" />
+
 </div>
 
 ---
 
-### 🧠 Contribution Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalpveer&theme=tokyo-night&hide_border=true&area=true" alt="Kalp Veer's GitHub activity graph" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalpveer&theme=github-compact&hide_border=true&area=true&bg_color=00000000" />
+
 </div>
-
-
-
 
 ---
 
-<h3 align="center">⚙️ Built with passion, caffeine, and clean commits.</h3>
+<div align="center">
+
+`21 · india · usually building something`
+
+<br/><br/>
+
+**if it's interesting, i'll probably build it.**
+
+</div>
